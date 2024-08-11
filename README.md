@@ -16,4 +16,4 @@ I am proficient in a range of audio design tools and programming languages:
 Lately, I've been focusing on audio programming and analysis using C++ and Python. I'm particularly interested in integrated spatial audio technologies.
 
 ## Contact Me
-Feel free to explore my [website](serinsound.com) to view my showreel, artist portfolio, and other projects. I'm always open to collaborations and discussions on innovative audio design projects.
+Feel free to explore my website to view my showreel, artist portfolio, and other projects. I'm always open to collaborations and discussions on innovative audio design projects.
